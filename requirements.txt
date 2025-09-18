@@ -1,0 +1,13 @@
+numpy
+opencv-python
+Pillow
+pytesseract
+regex
+opencv-contrib-python
+easyocr
+transformers
+torch
+accelerate
+os
+re
+
